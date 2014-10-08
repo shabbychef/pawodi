@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = u'Steven Pav'
 SITENAME = u'minimal-viable-parenting'
@@ -20,6 +21,9 @@ TRANSLATION_FEED_ATOM = None
 
 USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = u'misc'
+
+HOME = os.environ['HOME']
+THEME = HOME + '/github/pelican-themes/nmnlist'
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),)
