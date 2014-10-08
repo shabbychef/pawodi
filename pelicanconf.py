@@ -4,11 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Steven Pav'
 SITENAME = u'minimal-viable-parenting'
-SITEURL = ''
+SITEURL = u'http://www.minimal-viable-parenting.com'
+AUTHOR_EMAIL = u'steven@minimal-viable-parenting.com'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
@@ -17,17 +18,18 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+USE_FOLDER_AS_CATEGORY = True
+DEFAULT_CATEGORY = u'misc'
+
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),)
+LINKS = ()
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'http://www.twitter.com/gilgamath'),)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
