@@ -30,6 +30,13 @@ SOCIAL = (('Twitter', 'http://www.twitter.com/gilgamath'),)
 
 DEFAULT_PAGINATION = 10
 
+# see http://docs.getpelican.com/en/latest/tips.html
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/geetignore']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+        'extra/geetignore': {'path': '.gitignore'},}
+
+SUMMARY_MAX_LENGTH = 100
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
