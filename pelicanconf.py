@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = u'Steven Pav'
-SITENAME = u'minimal-viable-parenting'
-SITEURL = u'http://www.minimal-viable-parenting.com'
-AUTHOR_EMAIL = u'steven@minimal-viable-parenting.com'
+SITENAME = u'minimum-viable-parenting'
+SITEURL = u'http://www.minimum-viable-parenting.com'
+AUTHOR_EMAIL = u'steven@minimum-viable-parenting.com'
 
 PATH = 'content'
 
