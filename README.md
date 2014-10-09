@@ -1,4 +1,4 @@
-minimal-viable-parenting
+minimum-viable-parenting
 ========================
 
 a blog for nerd dads
