@@ -23,7 +23,8 @@ USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = u'misc'
 
 HOME = os.environ['HOME']
-THEME = HOME + '/github/pelican-themes/nmnlist'
+#THEME = HOME + '/github/pelican-themes/nmnlist'
+THEME = 'theme/pure'
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),)
