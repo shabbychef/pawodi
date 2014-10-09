@@ -24,14 +24,16 @@ DEFAULT_CATEGORY = u'misc'
 
 HOME = os.environ['HOME']
 #THEME = HOME + '/github/pelican-themes/nmnlist'
-THEME = 'theme/pure'
+#THEME = 'theme/pure'
+THEME = 'theme/pelican-chunk'
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),)
 LINKS = ()
 
 # Social widget
-SOCIAL = (('Twitter', 'http://www.twitter.com/gilgamath'),)
+SOCIAL = (('twitter', 'http://www.twitter.com/gilgamath'),
+        ('github', 'https://github.com/shabbychef/minimum-viable-parenting'),)
 
 DEFAULT_PAGINATION = 10
 
