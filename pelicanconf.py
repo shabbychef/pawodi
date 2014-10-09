@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = u'Steven Pav'
-SITENAME = u'minimum-viable-parenting'
-SITEURL = u'http://www.minimum-viable-parenting.com'
-AUTHOR_EMAIL = u'steven@minimum-viable-parenting.com'
+SITENAME = u'parenting without dignity'
+SITEURL = u'http://www.parenting-without-dignity.com'
+AUTHOR_EMAIL = u'steven@parenting-without-dignity.com'
 
 PATH = 'content'
 
@@ -33,10 +33,10 @@ LINKS = ()
 
 # Social widget
 SOCIAL = (('twitter', 'http://www.twitter.com/gilgamath'),
-        ('github', 'https://github.com/shabbychef/minimum-viable-parenting'),)
+        ('github', 'https://github.com/shabbychef/pawodi'),)
 
 # for pelican-chunk:
-LINKS = (('github', 'https://github.com/shabbychef/minimum-viable-parenting'),)
+LINKS = (('github', 'https://github.com/shabbychef/pawodi'),)
 MINT = False
 SITESUBTITLE = 'am I wearing your napkin?'
 FOOTER_TEXT = u'<!-- pelican-chunk -->'
