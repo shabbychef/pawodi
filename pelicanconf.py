@@ -35,6 +35,12 @@ LINKS = ()
 SOCIAL = (('twitter', 'http://www.twitter.com/gilgamath'),
         ('github', 'https://github.com/shabbychef/minimum-viable-parenting'),)
 
+# for pelican-chunk:
+LINKS = (('github', 'https://github.com/shabbychef/minimum-viable-parenting'),)
+MINT = False
+SITESUBTITLE = 'am I wearing your napkin?'
+FOOTER_TEXT = u'<!-- pelican-chunk -->'
+
 DEFAULT_PAGINATION = 10
 
 # see http://docs.getpelican.com/en/latest/tips.html
