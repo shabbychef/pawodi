@@ -1,4 +1,4 @@
-Title: I love your hair!
+Title: I love your hair.
 Date: Thu Oct 09 2014 20:22:00
 Tags: rascals, mushy
 Slug: i-love-your-hair
