@@ -22,9 +22,9 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = u'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = u'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = None
+FEED_MAX_ITEMS = 10
 
 FEED_RSS = u'feeds/all.rss'
-
 
 USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = u'misc'
@@ -36,16 +36,15 @@ THEME = 'theme/pelican-chunk'
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),)
-#LINKS = ()
-LINKS = (('RSS', 'feeds/all.rss'),
-	('atom', 'feeds/all.atom.xml'),)
 
 # Social widget
 SOCIAL = (('twitter', 'http://www.twitter.com/gilgamath'),
         ('github', 'https://github.com/shabbychef/pawodi'),)
 
 # for pelican-chunk:
-LINKS = (('github', 'https://github.com/shabbychef/pawodi'),)
+LINKS = (('github', 'https://github.com/shabbychef/pawodi'),
+	('RSS', 'feeds/all.rss'),
+	('atom', 'feeds/all.atom.xml'),)
 MINT = False
 SITESUBTITLE = 'am I wearing your napkin?'
 FOOTER_TEXT = u'<!-- pelican-chunk -->'
