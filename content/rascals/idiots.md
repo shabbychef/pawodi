@@ -7,7 +7,7 @@ Author: Steven
 
 I have come to understand that the epithet of choice when baby mama is driving
 the kids around is 'idiot!'  I only came to understand this when our two year
-old started to say this around this house.  Perhaps, because the context in which one
+old started to say this around this house.  Perhaps because the context in which one
 yells in a car is not clear to a backward-facing child, it probably seemed like
 an appropriate interjection for common use: when you are feeling happy, or
 want to say, 'hello'. So he has taken to yelling, "idiot! idiot over there!"
