@@ -17,11 +17,13 @@ DEFAULT_LANG = u'en'
 # Feed generation is usually not desired when developing
 #FEED_ALL_ATOM = None
 #CATEGORY_FEED_ATOM = None
+#TRANSLATION_FEED_ATOM = None
+
+FEED_ALL_ATOM = u'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = u'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = None
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-TRANSLATION_FEED_ATOM = None
+FEED_RSS = u'feeds/all.rss'
 
 
 USE_FOLDER_AS_CATEGORY = True
