@@ -1,4 +1,4 @@
-Title: Have a Spoon!
+Title: Have a spoon!
 Date: Tue Oct 07 2014 22:42:58
 Tags: rascals, out and about
 Slug: have-a-spoon
