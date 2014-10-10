@@ -13,6 +13,6 @@ an appropriate interjection for common use: when you are feeling happy, or
 want to say, 'hello'. So he has taken to yelling, "idiot! idiot over there!"
 
 This was terribly amusing for me when I took the child to the local bodega
-recently. He just pointed to some random customer and said, 'idiot!' 
-I just pretended to be deaf.
+recently. He pointed to some random customer and said, 'idiot!' 
+I pretended to be deaf.
 
