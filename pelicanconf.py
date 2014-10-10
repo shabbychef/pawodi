@@ -36,7 +36,9 @@ THEME = 'theme/pelican-chunk'
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),)
-LINKS = ()
+#LINKS = ()
+LINKS = (('RSS', 'feeds/all.rss'),
+	('atom', 'feeds/all.atom.xml'),)
 
 # Social widget
 SOCIAL = (('twitter', 'http://www.twitter.com/gilgamath'),
