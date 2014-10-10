@@ -58,6 +58,8 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
 
 SUMMARY_MAX_LENGTH = 100
 
+DISQS_SITENAME = u'parenting-without-dignity'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
