@@ -38,8 +38,7 @@ THEME = 'theme/pelican-chunk'
 #LINKS = (('Pelican', 'http://getpelican.com/'),)
 
 # Social widget
-SOCIAL = (('twitter', 'http://www.twitter.com/gilgamath'),
-        ('github', 'https://github.com/shabbychef/pawodi'),)
+SOCIAL = (('github', 'https://github.com/shabbychef/pawodi'),)
 
 # for pelican-chunk:
 LINKS = (('github', 'https://github.com/shabbychef/pawodi'),
@@ -59,6 +58,8 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
 SUMMARY_MAX_LENGTH = 100
 
 DISQUS_SITENAME = u'parenting-without-dignity'
+
+GOOGLE_ANALYTICS = u'UA-55665683-1'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
