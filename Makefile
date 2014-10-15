@@ -50,6 +50,7 @@ help:
 	@echo '   make s3_upload                   upload the web site via S3         '
 	@echo '   make cf_upload                   upload the web site via Cloud Files'
 	@echo '   make github                      upload the web site via gh-pages   '
+	@echo '   make pippup                      pip install necessary packags      '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -112,5 +113,8 @@ gittup :
 	git checkout $(GITHUB_PAGES_BRANCH)
 	git pull origin $(GITHUB_PAGES_BRANCH)
 	git checkout master
+
+pippup :
+	sudo pip install markdown pelican ghp-import
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
