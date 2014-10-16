@@ -25,8 +25,8 @@ spouting nonsensical rhymes, which quickly devolved:
 	Oskar: "Daddy faddy kaddy kaddy."
 	Me: "Does that mean you like cargo bikes?"
 	Oskar: "Kikes."
-	Me (nervously): "No, _bikes_."
-	Oskar (sensing blood in the water): "Kikes. Kikes! Kikes! Kikes!"
+	Me: (nervously) "No, _bikes_."
+	Oskar: (sensing blood in the water) "Kikes. Kikes! Kikes! Kikes!"
 
 I do not remember how I distracted the child from his stream of 
 racial epithets, maybe I shoved some apple slices in his mouth.
