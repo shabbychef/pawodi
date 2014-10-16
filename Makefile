@@ -111,7 +111,7 @@ github: publish
 gittup : 
 	git pull origin master
 	git checkout $(GITHUB_PAGES_BRANCH)
-	git pull origin $(GITHUB_PAGES_BRANCH)
+	git pull --rebase origin $(GITHUB_PAGES_BRANCH)
 	git checkout master
 
 pippup :
