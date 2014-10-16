@@ -21,12 +21,12 @@ parents of toddlers, the child wanted no part of our conversation. Instead,
 he started riffing on what I was saying, going off on tangents, and then
 spouting nonsensical rhymes, which quickly devolved:
 
-	Me: "Oskar, do you like bikes?"
-	Oskar: "Daddy faddy kaddy kaddy."
+	Me: "Otaro, do you like bikes?"
+	Otaro: "Daddy faddy kaddy kaddy."
 	Me: "Does that mean you like cargo bikes?"
-	Oskar: "Kikes."
+	Otaro: "Kikes."
 	Me: (nervously) "No, _bikes_."
-	Oskar: (sensing blood in the water) "Kikes. Kikes! Kikes! Kikes!"
+	Otaro: (sensing blood in the water) "Kikes. Kikes! Kikes! Kikes!"
 
 I do not remember how I distracted the child from his stream of 
 racial epithets, maybe I shoved some apple slices in his mouth.
