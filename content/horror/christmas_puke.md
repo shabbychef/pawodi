@@ -24,8 +24,10 @@ seriously nauseous is, I can attest, horrible.
 The game of viral telephone did not stop with the immediate family. My
 father-in-law, in town for the holidays, took ill some
 three days later, spending the whole night puking. The rest of us left the
-apartment so he could get some sleep. So it was that we found ourselves at
-Ikea. Imagine a family of dehydrated zombies wandering through Ikea, with 
-no visible purpose other than killing time. 
+apartment so he could get some sleep. It was a bit cold, and we were too
+fragile to do much outdoors. So it was that we found ourselves at
+Ikea. Imagine a family of dehydrated zombies wandering endlessly
+through Ikea, with no visible purpose other than killing time. OK, I guess
+that describes most people at Ikea, but in our case we were also contagious.
 
 
