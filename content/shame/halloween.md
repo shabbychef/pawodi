@@ -1,6 +1,6 @@
 Title: A Halloween Curse
 Date: Sat Nov 01 2014 21:41:54
-Tags: shame, cursing
+Tags: shame, cursing, rascals
 Slug: halloween-curse
 Summary: Child the younger lets us know what he's thinking.
 Author: Steven
